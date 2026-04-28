@@ -1,12 +1,3 @@
----
-title: Credit Risk Prediction Dashboard
-emoji: 💳
-colorFrom: yellow
-colorTo: gray
-sdk: streamlit
-app_file: app.py
-pinned: false
----
 
 <div align="center">
 
@@ -329,7 +320,7 @@ The final solution includes:
 - Classification model training
 - Model evaluation
 - Saved machine learning model
-- Premium Streamlit dashboard
+- Streamlit dashboard
 - Live deployment
 
 This project reflects practical skills in **data science, machine learning, visualization, model deployment, and dashboard development**.
